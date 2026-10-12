@@ -3,7 +3,6 @@
 
 **Author:** Second-Year B.Tech Computer Science & Engineering Student  
 **Project Task:** BYTES ML Research Challenge — The Falsification Challenge  
-**Repository Working Directory:** `/Users/hridayarora/Documents/BYTES TASK 1 ML R`  
 **Primary Deliverable Files:** `data.py`, `model.py`, `experiment.py`, `app.py`, `README.md`, `results/`  
 
 ---
