@@ -1,0 +1,6 @@
+Condition,Test_Acc_Mean,Test_Acc_Std,Test_Acc_Median,Test_Acc_Min,Test_Acc_Max,Drop_Simple_Mean,Drop_Simple_Std,Drop_Complex_Mean,Drop_Complex_Std,Iterations_Mean,Iterations_Std,Iterations_Max,Num_Runs_Max_Iter
+"1. Simple Only (2D Linear [1 signal, 1 noise])",99.78333333333333,0.24838660679019875,99.83333333333334,99.33333333333333,100.0,,,,,288.1,31.148033645801792,350,0
+2. Complex Only (2D Raw Rings),100.0,0.0,100.0,100.0,100.0,,,,,466.85,27.08325371108404,500,6
+3. Both Features (Raw Competition),99.96666666666667,0.10259783520851394,100.0,99.66666666666667,100.0,49.15,2.904875917068964,0.7166666666666671,0.6048053188292986,274.35,29.449823518370327,327,0
+"4. Diagnostic Control: Complex Only (2D Linearized [1 signal, 1 noise])",100.0,0.0,100.0,100.0,100.0,,,,,262.9,26.791396890950296,322,0
+5. Diagnostic Control: Both Features (Control Competition),100.0,0.0,100.0,100.0,100.0,22.016666666666662,12.86023609871218,27.916666666666668,12.63193530199091,210.0,22.62509086925631,257,0
